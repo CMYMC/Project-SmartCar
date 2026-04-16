@@ -86,6 +86,7 @@ https://github.com/user-attachments/assets/a803227f-d855-40d4-9eee-1fd7f5608cb0
 
 ##  6. 트러블 슈팅 (Troubleshooting)
 1) PID 제어 출력 불안정 문제
+
 **현상**:
 모터 구동 초기에는 PWM 값이 점진적으로 증가하며 안정적으로 동작했지만, 목표 속도에 가까워지는 시점에서 PWM 값이 최대치인 255로 급격히 상승하는 현상이 반복 발생
 
